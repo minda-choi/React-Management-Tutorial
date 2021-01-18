@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Management 시스템 테스트용
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
